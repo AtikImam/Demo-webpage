@@ -1,0 +1,28 @@
+.p1{border: 5px solid green;
+    border-radius: 15px;
+    background-color: rgb(39, 162, 58);
+}
+ #p2{
+     border: 5px solid wheat;
+    background-color: rgb(98, 155, 192);
+ }
+ body{
+   
+    background-image: url(download.jpeg);
+    background-repeat: 2;
+ }
+ .p3{
+    background-color: rgb(113, 219, 183);
+ }
+ .p4{
+    background-color: rgb(229, 15, 15);
+    
+ }
+ .p5{
+       /* makes text bold */
+      font-size:x-large;     /* increase size */
+      text-decoration: underline; 
+      color: rgb(238, 138, 6); 
+      background-color: blue;
+     
+ }
